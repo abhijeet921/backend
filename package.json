@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "a backend  learning by myself",
   "main": "index.js",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
@@ -11,5 +11,8 @@
     "backend"
   ],
   "author": "by abhijeet swami",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.7.4"
+  }
 }
